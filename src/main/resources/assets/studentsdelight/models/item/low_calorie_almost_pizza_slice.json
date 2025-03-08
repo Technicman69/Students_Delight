@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "studentsdelight:item/low_calorie_almost_pizza_slice"
+  }
+}

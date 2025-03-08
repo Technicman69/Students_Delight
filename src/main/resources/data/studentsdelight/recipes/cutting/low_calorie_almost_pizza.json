@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "studentsdelight:low_calorie_almost_pizza"
+    }
+  ],
+  "result": [
+    {
+      "count": 8,
+      "item": "studentsdelight:low_calorie_almost_pizza"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}

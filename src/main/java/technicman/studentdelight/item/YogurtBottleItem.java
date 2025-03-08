@@ -9,7 +9,7 @@ import vectorwing.farmersdelight.common.item.ConsumableItem;
 public class YogurtBottleItem extends ConsumableItem {
 
     public YogurtBottleItem(Settings settings) {
-        super(settings, false, true);
+        super(settings, false, false);
     }
 
     @Override

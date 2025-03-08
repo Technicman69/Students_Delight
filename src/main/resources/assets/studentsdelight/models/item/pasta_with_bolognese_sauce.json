@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "studentsdelight:item/pasta_with_bolognese_sauce"
+  }
+}
