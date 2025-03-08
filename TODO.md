@@ -20,4 +20,4 @@
 - [ ] Zdobycie i drugi za ugotowanie jogurtu
 - [ ] Abominio!: przygotuj spagnapki
 - [ ] Pasta la vista: zjedz sos boloński, przed przygotowaniem z niego posiłku
-- [ ] Maciek, co gotujesz?: ugotuj przysmak Maćka
+- [ ] Maciek, co gotujesz?: ugotuj przysmak Maćka.
