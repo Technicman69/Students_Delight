@@ -28,14 +28,14 @@ public class ModItems {
     public static final Item KAKTIS_TORTILLA = register("kaktis_tortilla", new ConsumableItem(food(FoodComponents.KAKTIS_TORTILLA)));
     public static final Item WATSUGS_TORTILLA = register("watsugs_tortilla", new ConsumableItem(food(FoodComponents.WATSUGS_TORTILLA)));
     public static final Item OVERBAKED_POTATO = register("overbaked_potato", new ConsumableItem(food(FoodComponents.OVERBAKED_POTATO)));
-    public static final Item SPAGHETTI_SANDWICH = register("spaghetti_sandwich", new ConsumableItem(food(FoodComponents.SPAGHETTI_SANDWICH)));
+    public static final Item SPAGHETTI_SANDWICH = register("spaghetti_sandwich", new ConsumableItem(food(FoodComponents.SPAGHETTI_SANDWICH), true));
     public static final Item PREMIUM_SANDWICH = register("premium_sandwich", new ConsumableItem(food(FoodComponents.PREMIUM_SANDWICH)));
 
     // Plated and bowled meals
-    public static final Item SHAKSHUKA = register("shakshuka", new ConsumableItem(bowlFood(FoodComponents.SHAKSHUKA)));
+    public static final Item SHAKSHUKA = register("shakshuka", new ConsumableItem(bowlFood(FoodComponents.SHAKSHUKA), true));
     public static final Item SALT_SOUP = register("salt_soup", new ConsumableItem(bowlFood(FoodComponents.SALT_SOUP)));
-    public static final Item BOLOGNESE_SAUCE = register("bolognese_sauce", new ConsumableItem(bowlFood(FoodComponents.BOLOGNESE_SAUCE)));
-    public static final Item PASTA_WITH_BOLOGNESE_SAUCE = register("pasta_with_bolognese_sauce", new ConsumableItem(bowlFood(FoodComponents.PASTA_WITH_BOLOGNESE_SAUCE)));
+    public static final Item BOLOGNESE_SAUCE = register("bolognese_sauce", new ConsumableItem(bowlFood(FoodComponents.BOLOGNESE_SAUCE), true));
+    public static final Item PASTA_WITH_BOLOGNESE_SAUCE = register("pasta_with_bolognese_sauce", new ConsumableItem(bowlFood(FoodComponents.PASTA_WITH_BOLOGNESE_SAUCE), true));
 
     // Yogurt :>
     public static final Item YOGURT_BOTTLE = register("yogurt_bottle", new YogurtBottleItem(food(FoodComponents.YOGURT_BOTTLE)

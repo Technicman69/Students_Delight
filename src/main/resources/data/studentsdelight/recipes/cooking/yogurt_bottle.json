@@ -4,7 +4,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "farmersdelight:milk_bottle"
+      "tag": "c:milks/milk_bottles"
     },
     {
       "item": "studentsdelight:yogurt_bottle"

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "studentsdelight:salt_soup"
+    },
+    "title": {
+      "translate": "studentsdelight.advancement.cook_salt_soup.title"
+    },
+    "description": {
+      "translate": "studentsdelight.advancement.cook_salt_soup.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "studentsdelight:overbake_potato",
+  "criteria": {
+    "cook_salt_soup": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:cooking/salt_soup"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cook_salt_soup"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

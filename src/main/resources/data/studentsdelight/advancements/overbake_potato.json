@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "studentsdelight:overbaked_potato"
+    },
+    "title": {
+      "translate": "studentsdelight.advancement.overbake_potato.title"
+    },
+    "description": {
+      "translate": "studentsdelight.advancement.overbake_potato.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "farmersdelight:main/place_campfire",
+  "criteria": {
+    "furnace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:baked_potato"
+      }
+    },
+    "smoker": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:baked_potato_from_smoking"
+      }
+    },
+    "campfire": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:baked_potato_from_campfire_cooking"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "furnace",
+      "smoker",
+      "campfire"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

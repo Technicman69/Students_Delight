@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import technicman.studentdelight.register.ModItems;
 import technicman.studentdelight.register.ModVillagerTrades;
 import technicman.studentdelight.util.ModLootTableModifiers;
+import vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity;
 
 public class StudentsDelight implements ModInitializer {
 	public static final String MOD_ID = "studentsdelight";

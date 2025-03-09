@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/breads"
+    },
+    {
+      "tag": "c:foods/raw_meats"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:foods/vegetables/tomatoes"
+    },
+    {
+      "item": "culturaldelights:cut_cucumber"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ],
+  "result": {
+    "item": "studentsdelight:premium_sandwich"
+  }
+}

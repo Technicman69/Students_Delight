@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/doughs/wheat"
+    },
+    {
+      "item": "studentsdelight:yogurt_bottle"
+    },
+    {
+      "tag": "c:salt_dusts"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "studentsdelight:low_calorie_almost_pizza"
+  }
+}

@@ -3,7 +3,7 @@
 	"package": "technicman.studentdelight.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"CookingPotRecipeTriggerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

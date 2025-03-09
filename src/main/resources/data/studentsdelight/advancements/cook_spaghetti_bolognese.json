@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "studentsdelight:pasta_with_bolognese_sauce"
+    },
+    "title": {
+      "translate": "studentsdelight.advancement.cook_spaghetti_bolognese.title"
+    },
+    "description": {
+      "translate": "studentsdelight.advancement.cook_spaghetti_bolognese.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "studentsdelight:eat_bolognese_sauce",
+  "criteria": {
+    "cook_pasta": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:cooking/pasta_with_bolognese_sauce"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cook_pasta"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

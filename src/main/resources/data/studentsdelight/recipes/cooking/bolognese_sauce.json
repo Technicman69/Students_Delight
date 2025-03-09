@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_meats/raw_beef"
+    },
+    {
+      "tag": "c:foods/vegetables/onions"
+    },
+    {
+      "tag": "c:foods/vegetables/carrots"
+    },
+    {
+      "item": "farmersdelight:smoked_ham"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "tag": "c:salt_dusts"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "studentsdelight:bolognese_sauce"
+  }
+}

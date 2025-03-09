@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/tortillas"
+    },
+    {
+      "tag": "c:foods/cooked_meats"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:foods/vegetables/onions"
+    }
+  ],
+  "result": {
+    "item": "studentsdelight:watsugs_tortilla"
+  }
+}

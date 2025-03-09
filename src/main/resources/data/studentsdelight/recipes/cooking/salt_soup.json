@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 1000,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "c:salt_dusts"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "studentsdelight:salt_soup"
+  }
+}

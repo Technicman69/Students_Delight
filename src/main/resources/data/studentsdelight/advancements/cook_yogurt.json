@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "studentsdelight:yogurt_bottle",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "title": {
+      "translate": "studentsdelight.advancement.cook_yogurt.title"
+    },
+    "description": {
+      "translate": "studentsdelight.advancement.cook_yogurt.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "studentsdelight:get_yogurt",
+  "criteria": {
+    "cook_yogurt": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:cooking/yogurt_bottle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cook_yogurt"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

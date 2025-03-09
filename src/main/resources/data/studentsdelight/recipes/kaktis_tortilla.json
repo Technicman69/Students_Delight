@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/tortillas"
+    },
+    {
+      "tag": "c:foods/cooked_meats/cooked_chicken"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "tag": "c:salad_ingredients"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "result": {
+    "item": "studentsdelight:kaktis_tortilla"
+  }
+}

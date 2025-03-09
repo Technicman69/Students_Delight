@@ -1,4 +1,25 @@
 {
+  "studentsdelight.advancement.overbake_potato.title": "Overcooked",
+  "studentsdelight.advancement.overbake_potato.desc": "Overbake a potato",
+
+  "studentsdelight.advancement.cook_spaghetti_bolognese.title": "The classic",
+  "studentsdelight.advancement.cook_spaghetti_bolognese.desc":  "Prepare famous spaghetti bolognese",
+
+  "studentsdelight.advancement.eat_bolognese_sauce.title": "Pasta la vista",
+  "studentsdelight.advancement.eat_bolognese_sauce.desc": "Eat bolognese sauce without preparing anything from it",
+
+  "studentsdelight.advancement.cook_salt_soup.title": "Student's favourite",
+  "studentsdelight.advancement.cook_salt_soup.desc": "Prepare salt soup",
+
+  "studentsdelight.advancement.craft_spaghetti_sandwich.title": "Abominio!",
+  "studentsdelight.advancement.craft_spaghetti_sandwich.desc": "Prepare spaghetti sandwich",
+
+  "studentsdelight.advancement.get_yogurt.title": "Cultural bacteria",
+  "studentsdelight.advancement.get_yogurt.desc": "Find yogurt",
+
+  "studentsdelight.advancement.cook_yogurt.title": "Infinite food glitch",
+  "studentsdelight.advancement.cook_yogurt.desc": "Cook yogurt using yogurt",
+
   "item.studentsdelight.bolognese_sauce": "Bolognese sauce",
   "item.studentsdelight.kaktis_tortilla": "Kakti's tortilla",
   "item.studentsdelight.low_calorie_almost_pizza": "Low-calorie (almost) pizza",
@@ -7,7 +28,7 @@
   "item.studentsdelight.pasta_with_bolognese_sauce": "Spaghetti bolognese",
   "item.studentsdelight.premium_sandwich": "Premium sandwich",
   "item.studentsdelight.salt_soup": "Salt soup",
-  "item.studentsdelight.shakshuka": "Yogurt bottle",
+  "item.studentsdelight.shakshuka": "Shakshuka",
   "item.studentsdelight.spaghetti_sandwich": "Spaghetti sandwich",
   "item.studentsdelight.watsugs_tortilla": "Watsug's tortilla",
   "item.studentsdelight.yogurt_bottle": "Yogurt bottle"

@@ -1,0 +1,35 @@
+{
+  "studentsdelight.advancement.overbake_potato.title": "Student debil",
+  "studentsdelight.advancement.overbake_potato.desc": "Upiecz ziemniaka po raz drugi",
+
+  "studentsdelight.advancement.cook_spaghetti_bolognese.title": "Klasyk",
+  "studentsdelight.advancement.cook_spaghetti_bolognese.desc":  "Ugotuj spaghetti bolognese",
+
+  "studentsdelight.advancement.eat_bolognese_sauce.title": "Pasta la vista",
+  "studentsdelight.advancement.eat_bolognese_sauce.desc": "Zjedz sos boloński przed przerobieniem go na coś innego",
+
+  "studentsdelight.advancement.cook_salt_soup.title": "Maciek, co gotujesz?",
+  "studentsdelight.advancement.cook_salt_soup.desc": "Ugotuj solnik",
+
+  "studentsdelight.advancement.craft_spaghetti_sandwich.title": "Abominio!",
+  "studentsdelight.advancement.craft_spaghetti_sandwich.desc": "Przygotuj spagnapki",
+
+  "studentsdelight.advancement.get_yogurt.title": "900-letni zielony jogurt",
+  "studentsdelight.advancement.get_yogurt.desc": "Zdobądź jogurt",
+
+  "studentsdelight.advancement.cook_yogurt.title": "Infinite food glitch",
+  "studentsdelight.advancement.cook_yogurt.desc": "Ugotuj jogurt używając jogurtu",
+
+  "item.studentsdelight.bolognese_sauce": "Sos boloński",
+  "item.studentsdelight.kaktis_tortilla": "Tortilla Kaktiego",
+  "item.studentsdelight.low_calorie_almost_pizza": "Nisko kaloryczna (prawie) pizza",
+  "item.studentsdelight.low_calorie_almost_pizza_slice": "Kawałek nisko kalorycznej (prawie) pizzy",
+  "item.studentsdelight.overbaked_potato": "Spieczony ziemniak",
+  "item.studentsdelight.pasta_with_bolognese_sauce": "Spaghetti bolognese",
+  "item.studentsdelight.premium_sandwich": "Kanapka premium",
+  "item.studentsdelight.salt_soup": "Solanka",
+  "item.studentsdelight.shakshuka": "Jajecznica po tunezyjsku",
+  "item.studentsdelight.spaghetti_sandwich": "Spagnapka",
+  "item.studentsdelight.watsugs_tortilla": "Tortija Watsugowska",
+  "item.studentsdelight.yogurt_bottle": "Butelka jogurtu"
+}

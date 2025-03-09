@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/vegetables/onions"
+    },
+    {
+      "tag": "c:foods/vegetables/chili_pepper"
+    },
+    {
+      "tag": "c:foods/vegetables/tomatoes"
+    },
+    {
+      "item": "farmersdelight:smoked_ham"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "studentsdelight:shakshuka"
+  }
+}

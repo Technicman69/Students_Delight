@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "item": "studentsdelight:yogurt_bottle"
+    },
+    "title": {
+      "translate": "studentsdelight.advancement.get_yogurt.title"
+    },
+    "description": {
+      "translate": "studentsdelight.advancement.get_yogurt.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "farmersdelight:main/get_fd_seed",
+  "criteria": {
+    "get_yogurt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "studentsdelight:yogurt_bottle"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_yogurt"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "studentsdelight:spaghetti_sandwich"
+    },
+    "title": {
+      "translate": "studentsdelight.advancement.craft_spaghetti_sandwich.title",
+      "italic": true
+    },
+    "description": {
+      "translate": "studentsdelight.advancement.craft_spaghetti_sandwich.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "studentsdelight:eat_bolognese_sauce",
+  "criteria": {
+    "craft_sandwich": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "studentsdelight:spaghetti_sandwich"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "craft_sandwich"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
